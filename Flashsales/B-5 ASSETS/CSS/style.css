@@ -72,7 +72,7 @@ padding-bottom: 35px;
 .view{
   display: flex;
   justify-content: center;
-  padding-top: 60px;
+  padding-top: 20px;
   padding-bottom: 60px;
 }
 .count-down{
